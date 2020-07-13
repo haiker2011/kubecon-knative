@@ -7,7 +7,7 @@
 |Cloud Native Smart Contract with Knative - Jay Guo & Ying Chun Guo, IBM|[Watch Here](https://www.youtube.com/watch?v=pMuJQutqt7c)| [Slides](./slides/cloud-native-smart-contract-with-knative-jay-guo-ying-chun-guo-ibm.pdf)|
 |Knative - The Security Platypus? - Ariel Shuper, Aqua Security|[Watch Here](https://www.youtube.com/watch?v=k_CxQOs5N4g)| [Slides](./slides/knative-the-security-platypus-ariel-shuper-aqua-security.pdf)|
 |Advanced Model Inferencing Leveraging KNative, Istio & Kubeflow Serving - Animesh Singh & Clive Cox|[Watch Here](https://www.youtube.com/watch?v=YaGASyU88dQ)| [Slides](./slides/advanced-model-inferencing-leveraging-knative-istio-and-kubeflow-serving-animesh-singh-ibm-clive-cox-seldon.pdf)|
-|Mario’s Adventures in Tekton Land - Vincent Demeester, Red Hat & Andrea Frittoli, IBM|[Watch Here](https://www.youtube.com/watch?v=LdXXtDYxD-0)|-|
+|Mario’s Adventures in Tekton Land - Vincent Demeester, Red Hat & Andrea Frittoli, IBM|[Watch Here](https://www.youtube.com/watch?v=LdXXtDYxD-0)|https://static.sched.com/hosted_files/kccncna19/70/Mario%27s%20Adventures%20in%20Tekton%20Land%282%29.pdf|
 |Extending Knative for Fun and Profit - Matt Moore & Ville Aikas, Google|[Watch Here](https://www.youtube.com/watch?v=Mb8c5SP-Sw0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/ba/what-the-duck.pdf)|
 |Istio on Knative Lessons Learned: How Istio is Fit for Serverless Platform - Ying Chun Guo|[Watch Here](https://www.youtube.com/watch?v=DN7chnOM0g0)|[Slides](https://static.sched.com/hosted_files/kccnceu19/5f/Knative-on-Istio.pdf)|
 |Inside Knative Serving - Dominik Tornow, SAP & Andrew Chen, Google|[Watch Here](https://www.youtube.com/watch?v=-tvQgLbcNtg)|-|
